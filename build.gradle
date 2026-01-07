@@ -1,6 +1,8 @@
 plugins {
     id 'java'
     id 'maven-publish'
+    id 'org.openrewrite.rewrite' version '7.23.0'
+
 }
 
 repositories {
